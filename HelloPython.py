@@ -1,5 +1,5 @@
 import datetime
-print("Hello world! and test")
+print("Hello world! and test2")
 now = datetime.datetime.now()
 print ("Current date and time is ")
 <<<<<<< HEAD
